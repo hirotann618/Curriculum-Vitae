@@ -151,10 +151,8 @@ GooglePlayStoreに掲載を行うことを目標とした。バックエンド�
 https://play.google.com/store/apps/details?id=jp.dip.hirotann.appointmentdesk
 
 ### GitHubリンク
-WEBアプリ
-https://github.com/hirotann618/AppointmentDesk-web
-Androidアプリ
-https://github.com/hirotann618/AppointmentDesk-android
+* WEBアプリ : https://github.com/hirotann618/AppointmentDesk-web
+* Androidアプリ : https://github.com/hirotann618/AppointmentDesk-android
 
 ### 2.WEB家計簿アプリ
 * 言語 : HTML,CSS,TypeScript
