@@ -22,9 +22,15 @@
 |  TypeScript  |  -  |  〇  |
 
 ## フレームワーク
-* CakePHP
-* Struts
-* AngularJS
+
+|  言語名  |  業務経歴  |  個人利用 |
+| ---- | ---- | ---- |
+|  CakePHP  |  1年1ヶ月  |  -  |
+| Laravel | 7ヶ月 |  -  |
+|  Struts  |  2年3ヶ月 |  -  |
+| Spring Boot |  6ヶ月  |  -  |
+|  AngularJS  |  6ヶ月  |   -  |
+|  Vuejs  |  -  |  〇  |
 
 
 # 職務経歴
