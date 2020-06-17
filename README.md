@@ -138,3 +138,29 @@ Javaアプレットで作成された商品情報登録システムに、法令�
 
 # 個人開発経歴
 
+### 1.QRコード利用した受付管理アプリ
+* 言語 : HTML,CSS,JavaScript,Kotlin
+* 環境 : Firebase,Android
+
+#### 概要
+Androidを購入した為、スキルアップも含めて個人でモバイルアプリを開発したいと思い開発を行った。
+GooglePlayStoreに掲載を行うことを目標とした。バックエンドはFirebaseを利用して、Kotlinにて開発を行った。
+アプリとしては、来訪者にQRコードを発行してもらいAndroidアプリで読み取り管理を行うシステムを開発した。
+
+#### GooglePlayStoreリンク
+https://play.google.com/store/apps/details?id=jp.dip.hirotann.appointmentdesk
+
+### GitHubリンク
+WEBアプリ
+https://github.com/hirotann618/AppointmentDesk-web
+Androidアプリ
+https://github.com/hirotann618/AppointmentDesk-android
+
+### 2.WEB家計簿アプリ
+* 言語 : HTML,CSS,TypeScript
+* フレームワーク : Vuejs
+* 環境 : Firebase
+
+#### 概要
+1ヶ月単位の収入と支出に特化した家計簿アプリが欲しく開発を行った。
+共有で管理もしたく利用デバイスがAndroidとiPhoneの為、PWAを利用してネイティブに近いアプリの開発を行った。
