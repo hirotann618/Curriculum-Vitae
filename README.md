@@ -32,10 +32,9 @@
 |  AngularJS  |  6ヶ月  |   -  |
 |  Vuejs  |  -  |  〇  |
 
-
 # 職務経歴
 
-#### 1社目
+#### 1社目(SES)
 * 職種 : プログラマ,システムエンジニア
 * 期間 : 2014/04 - 現在 (6年3ヶ月) 
 
@@ -154,7 +153,7 @@ https://play.google.com/store/apps/details?id=jp.dip.hirotann.appointmentdesk
 * WEBアプリ : https://github.com/hirotann618/AppointmentDesk-web
 * Androidアプリ : https://github.com/hirotann618/AppointmentDesk-android
 
-### 2.WEB家計簿アプリ
+### 2.PWA家計簿アプリ
 * 言語 : HTML,CSS,TypeScript
 * フレームワーク : Vuejs
 * 環境 : Firebase
@@ -162,3 +161,12 @@ https://play.google.com/store/apps/details?id=jp.dip.hirotann.appointmentdesk
 #### 概要
 1ヶ月単位の収入と支出に特化した家計簿アプリが欲しく開発を行った。
 共有で管理もしたく利用デバイスがAndroidとiPhoneの為、PWAを利用してネイティブに近いアプリの開発を行った。
+
+# 修士研究
+
+### 1.初心者の思考を模擬したリバーシAIの評価
+* 言語 : C++
+
+#### 概要
+リバーシの上達サポートの為、初心者の思考を模擬したAIの作成を行った。AIのチューニングとしてリバーシの戦略をいくつか用意してそのパラメーターを遺伝的アルゴリズムを用いて算出した。
+リバーシはWindowsアプリで作成を行い。パラメーターチューニングはLinuxのワークステーションにて計算を行った。
